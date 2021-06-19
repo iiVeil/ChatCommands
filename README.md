@@ -18,7 +18,7 @@ A muck mod made to add quite a few cheat chat commands into the game
 
 
 ## Changelog
-#### 1.1
+### 1.1
 
  - Added commands `flyspeed, kick`
  - Added aliases to commands `fs, i, p, nh, ns`
